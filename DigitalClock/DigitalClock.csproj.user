@@ -4,5 +4,5 @@
         <Compile Update="Form1.cs">
             <SubType>Form</SubType>
         </Compile>
-    </ItemGroup>
+</ItemGroup>
 </Project>
