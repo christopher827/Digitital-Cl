@@ -95,5 +95,5 @@
         private System.Windows.Forms.Timer timer1;
         private Label label2;
         private Label label4;
-    }
+}
 }
