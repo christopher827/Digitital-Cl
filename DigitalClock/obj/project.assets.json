@@ -3,7 +3,7 @@
 "targets": {
 "net6.0-windows7.0": {}
 },
-  "libraries": {},
+"libraries": {},
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": []
   },
