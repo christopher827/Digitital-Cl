@@ -21,7 +21,7 @@
 "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
 "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
 ],
-        "originalTargetFrameworks": [
+"originalTargetFrameworks": [
           "net6.0-windows"
         ],
         "sources": {
