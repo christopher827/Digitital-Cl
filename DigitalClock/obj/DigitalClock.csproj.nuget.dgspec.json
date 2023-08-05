@@ -57,7 +57,7 @@
 "frameworkReferences": {
 "Microsoft.NETCore.App": {
 "privateAssets": "all"
-           },
+},
 "Microsoft.WindowsDesktop.App.WindowsForms": {
 "privateAssets": "none"
             }
