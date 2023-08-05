@@ -43,7 +43,7 @@
 "frameworks": {
 "net6.0-windows7.0": {
 "targetAlias": "net6.0-windows",
-          "imports": [
+"imports": [
             "net461",
             "net462",
             "net47",
