@@ -45,7 +45,7 @@
 "targetAlias": "net6.0-windows",
 "imports": [
 "net461",
-            "net462",
+"net462",
             "net47",
             "net471",
             "net472",
