@@ -53,7 +53,7 @@
 "net481"
 ],
 "assetTargetFallback": true,
-          "warn": true,
+"warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
