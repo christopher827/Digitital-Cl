@@ -32,7 +32,7 @@
 "net6.0-windows7.0": {
 "targetAlias": "net6.0-windows",
 "projectReferences": {}
-          }
+}
         },
         "warningProperties": {
           "warnAsError": [
