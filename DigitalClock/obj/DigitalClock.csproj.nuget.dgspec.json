@@ -59,7 +59,7 @@
 "privateAssets": "all"
            },
 "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
+           "privateAssets": "none"
             }
 },
 "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
