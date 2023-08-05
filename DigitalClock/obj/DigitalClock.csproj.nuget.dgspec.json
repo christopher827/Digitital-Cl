@@ -54,7 +54,7 @@
 ],
 "assetTargetFallback": true,
 "warn": true,
-          "frameworkReferences": {
+"frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
