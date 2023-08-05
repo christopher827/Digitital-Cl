@@ -52,7 +52,7 @@
 "net48",
 "net481"
 ],
-          "assetTargetFallback": true,
+"assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
