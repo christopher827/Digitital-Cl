@@ -44,7 +44,7 @@
 "net6.0-windows7.0": {
 "targetAlias": "net6.0-windows",
 "imports": [
-            "net461",
+"net461",
             "net462",
             "net47",
             "net471",
