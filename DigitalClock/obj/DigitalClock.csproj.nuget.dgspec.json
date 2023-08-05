@@ -34,7 +34,7 @@
 "projectReferences": {}
 }
 },
-        "warningProperties": {
+"warningProperties": {
           "warnAsError": [
             "NU1605"
           ]
