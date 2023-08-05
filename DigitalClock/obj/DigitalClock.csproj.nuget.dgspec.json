@@ -55,7 +55,7 @@
 "assetTargetFallback": true,
 "warn": true,
 "frameworkReferences": {
-            "Microsoft.NETCore.App": {
+"Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
             "Microsoft.WindowsDesktop.App.WindowsForms": {
