@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace DigitalClock
 {
 public partial class Form1 : Form
-    {
+{
         public Form1()
         {
             InitializeComponent();
