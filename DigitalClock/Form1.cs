@@ -31,6 +31,6 @@ label2.Text = DateTime.Now.ToString("dddd MMM dd yyyy");
 private void label4_Click(object sender, EventArgs e)
 {
 Application.Exit();
-        }
+}
     }
 }
