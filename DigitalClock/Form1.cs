@@ -26,7 +26,7 @@ private void timer1_Tick(object sender, EventArgs e)
 {
 label1.Text = DateTime.Now.ToString("hh:mm:ss");
 label2.Text = DateTime.Now.ToString("dddd MMM dd yyyy");
-        }
+}
 
         private void label4_Click(object sender, EventArgs e)
         {
