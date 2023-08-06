@@ -22,7 +22,7 @@ private void Form1_Load(object sender, EventArgs e)
 timer1.Start();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+private void timer1_Tick(object sender, EventArgs e)
         {
             label1.Text = DateTime.Now.ToString("hh:mm:ss");
             label2.Text = DateTime.Now.ToString("dddd MMM dd yyyy");
