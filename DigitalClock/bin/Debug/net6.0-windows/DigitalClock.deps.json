@@ -7,7 +7,7 @@
 "targets": {
 ".NETCoreApp,Version=v6.0": {
 "DigitalClock/1.0.0": {
-        "runtime": {
+      "runtime": {
           "DigitalClock.dll": {}
         }
       }
