@@ -5,7 +5,7 @@
   },
 "compilationOptions": {},
 "targets": {
-    ".NETCoreApp,Version=v6.0": {
+  ".NETCoreApp,Version=v6.0": {
       "DigitalClock/1.0.0": {
         "runtime": {
           "DigitalClock.dll": {}
