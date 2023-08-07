@@ -13,7 +13,7 @@
       }
     }
   },
-  "libraries": {
+"libraries": {
     "DigitalClock/1.0.0": {
       "type": "project",
       "serviceable": false,
