@@ -14,7 +14,7 @@
     }
   },
 "libraries": {
-    "DigitalClock/1.0.0": {
+  "DigitalClock/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
